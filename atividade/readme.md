@@ -1,6 +1,7 @@
 Atividade Avaliativa I
 ================
-Tiago dos Santos Alves </br>
+Tiago dos Santos Alves, Yago da Silva Menezes e Rosenilda Pereira
+Barreto </br>
 Introdução a Estatistica 2020.1
 
 ------------------------------------------------------------------------
@@ -202,8 +203,6 @@ tabela_tibble <- tribble(
   "Dirce",     173,     79
 )
 ```
-
-Em seguida salvei na pasta tidy com o nome tibble.csv
 
 **(b)** A variável *nome* é uma variável qualitativa nominal </br> A
 variável *altura* é uma variável quantitativa contínua </br> A variável
